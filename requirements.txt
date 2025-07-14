@@ -1,4 +1,0 @@
-PyPDF2
-transformers
-accelerate
-soundfile
