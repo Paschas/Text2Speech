@@ -1,5 +1,6 @@
 # Text2Speech
-A simple Text-to-Speech NN project
+A simple Text-to-Speech NN project.
+> Caution: LLMs are used in the creation of this project
 
 ## Todo List
 
