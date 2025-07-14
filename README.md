@@ -2,6 +2,16 @@
 A simple Text-to-Speech NN project.
 > Caution: LLMs are used in the creation of this project
 
+## Getting Started
+
++ Please fork this repository
+
++ Clone the repository to your computer
+
+```bash
+git clone https://github.com/<enter_github_username>/Text2Speech.git
+```
+
 ## Todo List
 
 ### Phase 1: Set up project structure and install dependencies
